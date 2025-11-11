@@ -1,0 +1,13 @@
+{
+  "toolsets": {
+    "playwright": {
+      "servers": [
+        {
+          "type": "stdio",
+          "command": "npx",
+          "args": ["playwright", "mcp"]
+        }
+      ]
+    }
+  }
+}
