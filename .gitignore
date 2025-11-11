@@ -1,0 +1,6 @@
+node_modules/
+target/
+videos/
+.idea/
+.vscode/
+.DS_Store
